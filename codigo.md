@@ -54,7 +54,7 @@ $$
 x_{n+1} = g(x_{n}) \,, , n=0,1,2,...
 $$
 
-Com $$ x_0 $$ como uma aproximação inicial da solução, converge para o ponto fixo x* da função g.
+Com $x_0$ como uma aproximação inicial da solução, converge para o ponto fixo x* da função g.
 
 Pela sequência, podemos observar que a estimativa atual (n+1) depende da estimativa anterior (n).
 
@@ -62,4 +62,4 @@ Pela sequência, podemos observar que a estimativa atual (n+1) depende da estima
 
 ![Gráfico](https://github.com/DandaraDias/pontofixo/blob/master/pontofixo.png)
 
-Podemos observar que para os dois valores de x, ocorrem oscilações que eventualmente convergem para o resultado. Foi necessário limitar a extenso do gráfico para que fosse possível observar a oscilação para ambos os valores, já que para x = 1.5 temos valores muito maiores.
+Podemos observar que para os dois valores de x, ocorrem oscilações que eventualmente convergem para o resultado. Foi necessário limitar a extenso do gráfico para que fosse possível observar a oscilação para ambos os valores, já que para x=1.5 temos valores muito maiores.
